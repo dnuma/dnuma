@@ -1,3 +1,3 @@
-Hey, I'm @dnuma, Colombian by birth and residing in Canada. After 15 years working in areas that did not complement me, today I can finally say that I am 100% happy in what I do.
-I'm studying Computer Application Development at Conestoga College, falling in love with backend development.
-Starting your professional life from scratch, one more time, has never felt so good.
+Graduated software developer at Conestoga College with experience in game development in Unity3D using C# as a game developer, with additional experience in JavaScript, HTML5, and CSS3.
+Able to work remotely without any supervision, well-organized and collaborative team player with strong communication and analytical abilities, with easy understanding and adaptability to new technologies.
+English and Spanish spoken languages.

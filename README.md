@@ -1,3 +1,3 @@
-Graduated software developer at Conestoga College with experience in game development in Unity3D using C# as a game developer, with additional experience in JavaScript, HTML5, and CSS3.
-Able to work remotely without any supervision, well-organized and collaborative team player with strong communication and analytical abilities, with easy understanding and adaptability to new technologies.
-English and Spanish spoken languages.
+Data-minded professional with proven expertise in assessing software quality, identifying bugs, and simulating application performance by conducting automated tests. Adept at collaborating with QA engineers and developers to devise and implement effective strategies and test plans while ensuring optimal functionality and fulfilment of set expectations.
+Well-versed in reviewing system requirements and tracking quality assurance metrics to deliver efficient software and web applications. Excellent communicator with critical thinking and problem-solving abilities; able to work remotely under minimal supervision and easily adapt to the latest technologies.
+English and Spanish languages spoken.

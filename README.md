@@ -4,4 +4,4 @@ He’s a Playwright powerhouse, having built multiple frameworks from scratch ac
 
 But David’s not just about squashing bugs—he’s passionate about building software people actually enjoy using. He’s a lifelong learner, always diving into new tech, refining his workflows, and leveling up his craft. He’s fluent in English and Spanish, and works independently like a pro in remote setups.
 
-When he’s not automating the universe, you’ll find David hanging out with his family, adventuring with his dogs, tuning into a podcast or audiobook, or geeking out over Star Wars lore. And yes, he still writes about himself in the third person—because why not?
+When he’s not automating the universe, you’ll find David hanging out with his family, adventuring with his dogs, tuning into a podcast or audiobook, or geeking out over Star Wars lore. And yes, he still asks an LLM to write about himself in the third person—because why not?
